@@ -1,18 +1,9 @@
-Grading at Thu Jul  9 01:02:42 UTC 2020
+Grading at Thu Jul  9 01:08:21 UTC 2020
 Checking code2.c for legal syntax
 temp.c: In function ‘printTriangle’:
 temp.c:20:5: error: expected ‘;’ before ‘}’ token
      }
      ^
-temp.c: In function ‘main’:
-temp.c:34:14: error: implicit declaration of function ‘printTrangle’ [-Werror=implicit-function-declaration]
-   numStars = printTrangle(7);
-              ^
-temp.c:36:47: error: ‘numstars’ undeclared (first use in this function)
-   printf("That triangle had %d total stars\n",numstars);
-                                               ^
-temp.c:36:47: note: each undeclared identifier is reported only once for each function it appears in
-cc1: all warnings being treated as errors
 The code did not have legal syntax!
 
 Overall Grade: F
