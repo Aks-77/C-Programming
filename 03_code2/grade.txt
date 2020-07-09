@@ -1,9 +1,23 @@
-Grading at Thu Jul  9 01:14:28 UTC 2020
+Grading at Thu Jul  9 01:22:22 UTC 2020
 Checking code2.c for legal syntax
-temp.c: In function ‘printTriangle’:
-temp.c:20:5: error: expected ‘;’ before ‘}’ token
-     }
-     ^
-The code did not have legal syntax!
+Checking for int printTriangle (int size)
+Found on line 3, column 1 
+Checking for int main(void)
+Found on line 27, column 1 
+Trying to run the code..
+Your file matched the expected output
+Removing your main() and replacing it with our own to run more tests...
+Testing printTriangle(0) ... Correct
+Testing printTriangle(1) ... Correct
+Testing printTriangle(2) ... Correct
+Testing printTriangle(3) ... Correct
+Testing printTriangle(4) ... Correct
+Testing printTriangle(7) ... Correct
+Testing printTriangle(9) ... Correct
+Testing printTriangle(12) ... Correct
+Testing printTriangle(85) ... Correct
+Testing printTriangle(107) ... Correct
+Testing printTriangle(483) ... Correct
+Testing printTriangle(2540) ... Correct
 
-Overall Grade: F
+Overall Grade: A
