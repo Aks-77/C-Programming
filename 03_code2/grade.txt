@@ -1,4 +1,4 @@
-Grading at Thu Jul  9 01:08:21 UTC 2020
+Grading at Thu Jul  9 01:14:28 UTC 2020
 Checking code2.c for legal syntax
 temp.c: In function ‘printTriangle’:
 temp.c:20:5: error: expected ‘;’ before ‘}’ token
