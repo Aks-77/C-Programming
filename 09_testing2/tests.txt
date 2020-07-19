@@ -1,5 +1,4 @@
 aaaaa ccccc
-bbcca abaaa
 @#!$% 1/*-#
 aaaa bbbc
 aaaaa acfghe
@@ -14,10 +13,9 @@ aaaaa
 (_)01 ()==-
 bbbba bbbba
 abbbb abbbb
-aabbb acbbb
-bbbcc bbbca
 NULL 00000
 abbb khmaa
 abb ougha
 ----- ~~~~~
 dbbaa aaccbb
+aabbc 1mddd
