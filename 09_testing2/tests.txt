@@ -9,15 +9,15 @@ aabbc lmddd
 """"" '''''
 NULL 00000
 aaaab bbbbc ddddd
-bbbba bbbba
+ bbba bbbba
 abbbb abbbb
-aabbb acbbb
+aabbb  cbbb
 bbbcc bbbcaaaaaa ccccc
 @#!$% 1/*-#
 aaaa bbbc
 aaaaa acfghe
 1mdda tbbbb
-abaab abbcc abbaa
+abaab .bbcc abbaa
 .'''. ,>,/.
 NULLI 00000
 null 00000
@@ -25,11 +25,12 @@ null 00000
 aaaaa
 
 (_)01 ()==-
-bbbba bbbba
-abbbb abbbb
+bbbba  .bba
+abbbb .bbbb
 NULL 00000
 abbb khmaa
 abb ougha
 ----- ~~~~~
-dbbaa aaccbb
+dbbaa a,ccbb
 aabbc 1mddd
+aa aaaaa
