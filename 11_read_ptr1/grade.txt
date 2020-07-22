@@ -1,15 +1,8 @@
-Grading at Wed Jul 22 14:29:53 UTC 2020
+Grading at Wed Jul 22 14:31:44 UTC 2020
 Attempting to compile test.c
 gcc -o test -pedantic -std=gnu99 -Wall -Werror test.c
 compiled
-I expected to find a file called 'answer.txt' but it did not exist
-(or was not a regular file)
-Here are the files that I can find:
-answers.txt
-Makefile
-README
-test
-test.c
-Your output did not match what we expected.
+Your file matched the expected output
+Your output matched what we expected
 
-Overall Grade: FAILED
+Overall Grade: PASSED
