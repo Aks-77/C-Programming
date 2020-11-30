@@ -1,17 +1,9 @@
-Grading at Mon Nov 30 16:23:34 UTC 2020
+Grading at Mon Nov 30 16:27:08 UTC 2020
 Attempting to compile test.c
 gcc -c test.c
 gcc -o test test.o
 compiled
-I expected to find a file called 'answer.txt' but it did not exist
-(or was not a regular file)
-Here are the files that I can find:
-grade.txt
-Makefile
-README
-test
-test.c
-test.o
-Your output did not match what we expected.
+Your file matched the expected output
+Your output matched what we expected
 
-Overall Grade: F
+Overall Grade: A
