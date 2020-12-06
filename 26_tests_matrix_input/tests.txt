@@ -1,0 +1,19 @@
+arg1 arg2
+nothing.txt
+testcase1.txt
+testcase7.txt
+testcase2.txt
+testcase3.txt
+testcase4.txt
+testcase5.txt
+testcase6.txt
+testcase6.txt~
+testcase7.txt
+testcase8.txt
+testcase.txt
+
+test23.txt
+2testcase3.txt
+input.tx
+2 input.txt
+input4.txt

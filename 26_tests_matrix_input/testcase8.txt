@@ -1,0 +1,109 @@
+1234567890
+asdfghjkl;
+dfgh"\n"gh
+zxcvbnm,./
+zxcvbnm,./
+zxcvbnm,./
+zxcvbnm,./
+zxcvbnm,./
+zxcvbnm,./
+zxcvbnm,./
+
+input.tx
+2 input.txt
+input4.txt
+
+asdfghjkl;
+zxcvbnm,./
+"%s"tYuiop
+asdftyuikl
+xcvbhgfder
+jdjdjdhdye
+rrrrrrrrrr
+hehehehehe
+ssssssssss
+aaaaaaaaaa
+
+1 * # @ !5 ~6 7 8 9 0
+1 2 3 4 5 6 7 8 99999999999 0
+1 2 3 4 5 6 7 8 9 0
+1 2 3 4 5 6 7 8 9 0
+1 2 3 4 5 6 7 8 9 0
+1 2 3 4 5 6 7 8 9 0
+1 2 3 4 5 6 7 8 9 0
+1 2 3 4 5 6 7 8 9 0
+1 2 3 4 5 6 7 8 9 0
+1 2 3 4 5 6 7 8 9 0
+
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+1234567890
+
+1 1 2 2 3 3 4 4 5 5 2
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+1 1 2 2 3 3 4 4 5 5 6
+
+
+
+1234567890
+sfdsfddgfg
+afsafsfdsf
+afsfdsfdsf
+dgdgfgfgfg
+adsadsdsfg
+afsfdfdhjk
+sfdsfdbvbd
+ashfshflks
+sajlasjfls
+
+1234567890
+skfdhsfkdf
+amdalsmldf
+ajksfkfdkj
+asakflskfl
+asdlfksakl
+jslkjsldjd
+ jlfjslfjd
+ sflsjflddg
+ alkslfklff
+
+a1234567890
+sfdsfdfffg
+sfdsfddgfg
+aafsafs""k
+dgdgfgfgfg
+adhjdsdsfg
+afsfdfdhjk
+sfdsfdbvbd
+ashfshflks
+sajlasjfls
+
+ㄲ㌴㔶㜸㤰ੳ晤獦摤杦朊慦獡晳晤獦੡晳晤獦摳昊摧摧晧晧晧੡摳慤獤獦朊慦珿摦搱㙫ੳ晤獦摢癢搊慳桦ㄶ晬歳੡桳摫桳此搊
+
+
+1234567890
+/n/n/n/n/n
+%fdsfddgfg
+afsafsjhgh
+dgdgfgfgfg
+addjfkga01
+ fdsfdbvbd
+ ashfshflks
+ sajlasjfls
+ gjgjjhjhjj
+
+\n\n\n\n\n
