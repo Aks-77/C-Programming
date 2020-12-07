@@ -1,0 +1,8 @@
+Grading at Mon Dec  7 13:55:24 UTC 2020
+Compiling deck.c -> deck.o
+deck.c:1:1: error: expected identifier or ‘(’ before ‘.’ token
+ ../c3prj1_deck/deck.c
+ ^
+Compilation of deck.c failed
+
+Overall Grade: F
