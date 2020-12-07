@@ -1,8 +1,51 @@
-Grading at Mon Dec  7 13:55:24 UTC 2020
+Grading at Mon Dec  7 13:57:51 UTC 2020
 Compiling deck.c -> deck.o
-deck.c:1:1: error: expected identifier or ‘(’ before ‘.’ token
- ../c3prj1_deck/deck.c
+In file included from deck.c:4:0:
+deck.h:1:1: error: expected identifier or ‘(’ before ‘.’ token
+ ../c3prj1_deck/deck.h
  ^
+deck.c:17:17: error: unknown type name ‘deck_t’
+ void print_hand(deck_t * hand){
+                 ^
+deck.c:26:19: error: unknown type name ‘deck_t’
+ int deck_contains(deck_t * d, card_t c) {
+                   ^
+deck.c:26:31: error: unknown type name ‘card_t’
+ int deck_contains(deck_t * d, card_t c) {
+                               ^
+deck.c:37:14: error: unknown type name ‘deck_t’
+ void shuffle(deck_t * d){
+              ^
+deck.c:46:23: error: unknown type name ‘deck_t’
+ void assert_full_deck(deck_t * d) {
+                       ^
+deck.c:62:18: error: unknown type name ‘deck_t’
+ void add_card_to(deck_t *deck, card_t c) {
+                  ^
+deck.c:62:32: error: unknown type name ‘card_t’
+ void add_card_to(deck_t *deck, card_t c) {
+                                ^
+deck.c:71:1: error: unknown type name ‘card_t’
+ card_t * add_empty_card(deck_t * deck) {
+ ^
+deck.c:71:25: error: unknown type name ‘deck_t’
+ card_t * add_empty_card(deck_t * deck) {
+                         ^
+deck.c:81:1: error: unknown type name ‘deck_t’
+ deck_t* make_deck_exclude(deck_t * excluded_cards) {
+ ^
+deck.c:81:27: error: unknown type name ‘deck_t’
+ deck_t* make_deck_exclude(deck_t * excluded_cards) {
+                           ^
+deck.c:98:1: error: unknown type name ‘deck_t’
+ deck_t * build_remaining_deck(deck_t ** hands, size_t n_hands) {
+ ^
+deck.c:98:31: error: unknown type name ‘deck_t’
+ deck_t * build_remaining_deck(deck_t ** hands, size_t n_hands) {
+                               ^
+deck.c:121:16: error: unknown type name ‘deck_t’
+ void free_deck(deck_t * deck) {
+                ^
 Compilation of deck.c failed
 
 Overall Grade: F
